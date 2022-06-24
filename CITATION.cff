@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: J.E.
+    given-names: Solís-Pérez
+    orcid: https://orcid.org/0000-0002-4729-9949
+title: "Implementation in Python of numerical methods for approximate solutions to Fractional ODE"
+version: 0.0.1
+date-released: 2022-06-24
