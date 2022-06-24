@@ -4,6 +4,10 @@ authors:
   - family-names: Solís-Pérez
     given-names: J.E.
     orcid: https://orcid.org/0000-0002-4729-9949
+  - family-names: Gómez-Aguilar
+    given-names: J.F.
+    orcid: https://orcid.org/0000-0001-9403-3767
 title: "Implementation in Python of numerical methods for approximate solutions to Fractional ODE"
 version: 0.0.1
 date-released: 2022-06-24
+url: "https://github.com/jesolisp/Fractional_Numerical_Methods"
