@@ -1,2 +1,2 @@
-# Implementación en Python de métodos numéricos para soluciones aproximadas a EDO Fraccionarias
+# Implementación en Python y C++ de métodos numéricos para soluciones aproximadas a EDO Fraccionarias
 
